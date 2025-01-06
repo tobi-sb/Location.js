@@ -4,6 +4,8 @@ A fun project that tries to locate you by measuring network latencies! 🌍
 
 > ⚠️ The UI is completely bonkers with missiles and explosions (yes, really...), but the interesting part is the latency-based geolocation code that can be reused for more serious projects!
 
+ ![App Screenshot](https://images-tobi.s3.eu-north-1.amazonaws.com/Capture.PNG)
+
 ## 🚀 Technical Concept
 
 The script measures latency times to various French servers with known locations (OVH, Orange, Free, etc.). Using these measurements and smart weighting, it can roughly triangulate your position.
